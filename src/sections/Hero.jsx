@@ -51,8 +51,10 @@ const Hero = () => {
             </div>
 
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-              Hi, I am James Tonibor, a Full Stack Developer with a passion for
-              code.
+              Hi, I am James Tonibor, a Full Stack Software Developer
+            </p>
+            <p className="text-white-50 md:text-xl relative z-10 pointer-events-none my-[-15px]">
+               Specializing in building responsive, user-centric websites and web applications
             </p>
 
             <Button

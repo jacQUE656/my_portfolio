@@ -1,8 +1,8 @@
 const navLinks = [
-  {
-    name: "Work",
-    link: "#work",
-  },
+  // {
+  //   name: "Work",
+  //   link: "#work",
+  // },
   {
     name: "Skills",
     link: "#experience",
@@ -22,9 +22,9 @@ const words = [
 ];
 
 const counterItems = [
-  { value: 5, suffix: "+", label: "Years of Experience" },
-  { value: 30, suffix: "+", label: "Satisfied Clients" },
-  { value: 50, suffix: "+", label: "Completed Projects" },
+  { value: 3, suffix: "+", label: "Years of Experience" },
+  { value: 20, suffix: "+", label: "Satisfied Clients" },
+  { value: 30, suffix: "+", label: "Completed Projects" },
   { value: 90, suffix: "%", label: "Client Retention Rate" },
 ];
 
